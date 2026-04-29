@@ -10,18 +10,16 @@
 
 ![Oaxaca Orona David Adrian foto](https://github.com/Davidoaxacacetis/html/blob/main/f11.jpg)
 
-![Primera ventana](static/)
+![Primera ventana](static/1.png)
 
-![Registro](static/)
+![Registro](static/2.png)
 
-![Inicio de sesion](static/)
+![Inicio de sesion](static/3.png)
 
-![Inicio de sesion correcto](static/)
+![Dashboard](static/4.png)
 
-![Dashboard](static/)
+![Dropdown](static/5.png)
 
-![Dropdown](static/)
+![Editar perfil](static/6.png)
 
-![Editar perfil](static/)
-
-![Cerrar sesion](static/)
+![Cerrar sesion](static/7.png)
